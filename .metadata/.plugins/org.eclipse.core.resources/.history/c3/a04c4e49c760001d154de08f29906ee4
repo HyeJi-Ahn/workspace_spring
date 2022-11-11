@@ -1,0 +1,22 @@
+package com.ezen.spring.polymorphism;
+
+public class TvUser {
+
+	public static void main(String[] args) {
+		// 각 티비를 사용하기 위해 객체를 각각 생성해야 함
+		// 의존성이 증가하고 결합도가 높아진다.
+		// 같은 기능을 하는데 메소드들의 이름이 다르다.
+		SamsungTV sTv = new SamsungTV();
+		sTv.on();
+		sTv.up();
+		sTv.down();
+		sTv.off();
+		
+		LgTV lTv = new LgTV();
+		lTv.on();
+		lTv.up();
+		lTv.down();
+		lTv.off();
+	}
+	
+}

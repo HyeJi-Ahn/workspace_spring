@@ -1,0 +1,12 @@
+package com.ezen.spring.polymorphism;
+
+import org.springframework.context.support.AbstractApplicationContext;
+
+public class TvUser {
+
+	public static void main(String[] args) {
+		// 1. 스프링 컨테이너 구동
+		AbstractApplicationContext factory = 
+		
+	}
+}

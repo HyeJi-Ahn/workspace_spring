@@ -1,0 +1,21 @@
+package com.ezen.spring.polymorphism;
+
+public class TvUser {
+
+	public static void main(String[] args) {
+		// TV 인터페이스를 이용하여 결합도와 의존성을 낮춤
+		// _002_ 프로젝트와 비교했을 때 생성되는 객체가 하나로 줄어서 의존성과 결합도가 낮아진다.
+		TV tv;
+        tv = new SamsungTV();
+		tv.on();
+		tv.up();
+		tv.down();
+		tv.off();
+		
+		tv = new LgTV();
+		tv.on();
+		tv.up();
+		tv.down();
+		tv.off();
+	}
+}
