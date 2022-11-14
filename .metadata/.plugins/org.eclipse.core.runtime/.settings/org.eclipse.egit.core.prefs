@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=D\:\\aws220726\\SpringFramework\\workspace_spring\\_004_SpringFramework_SpringContainer\\.git;
-GitRepositoriesView.GitDirectories.relative=_004_SpringFramework_SpringContainer\\.git;
+GitRepositoriesView.GitDirectories=D\:\\aws220726\\SpringFramework\\workspace_spring\\.git;D\:\\aws220726\\SpringFramework\\workspace_spring\\_004_SpringFramework_SpringContainer\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;_004_SpringFramework_SpringContainer\\.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

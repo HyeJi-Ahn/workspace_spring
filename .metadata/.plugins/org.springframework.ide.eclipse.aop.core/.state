@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
 <aop-project name="_006_SpringFramework_DI"/>
-<aop-project name="_004_SpringFramework_SpringContainer"/>
 <aop-project name="_010_SpringFramework_DI_Annotation"/>
 <aop-project name="_003_SpringFramework_Coupling_Interface"/>
-<aop-project name="_005_SpringFramework_BeanProperties"/>
 <aop-project name="_007_SpringFramework_DI_Constructor"/>
+<aop-project name="_008_SpringFramework_DI_Constructor_Interface"/>
+<aop-project name="_011_SpringFramework_DI_Annotation_Xml"/>
+<aop-project name="_004_SpringFramework_SpringContainer"/>
+<aop-project name="_005_SpringFramework_BeanProperties"/>
+<aop-project name="_012_SpringFramework_BusinessComponent"/>
 <aop-project name="_009_SpringFramework_DI_Setter"/>
 <aop-project name="_002_SpringFramework_Coupling"/>
-<aop-project name="_008_SpringFramework_DI_Constructor_Interface"/>
 <aop-project name="_001_SpringFramework"/>
-<aop-project name="_011_SpringFramework_DI_Annotation_Xml"/>
 </aop-reference-model>
