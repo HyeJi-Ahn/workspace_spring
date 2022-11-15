@@ -15,6 +15,8 @@ D:\aws220726\SpringFramework\workspace_spring\.metadata\.plugins\org.eclipse.jst
 \_003_SpringFramework_Coupling_Interface\src\main\java
 D:\aws220726\SpringFramework\workspace_spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4281413795.index
 \_005_SpringFramework_InitMethod\src\main\java
+D:\aws220726\SpringFramework\workspace_spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3556979272.index
+\_017_SpringFramework_AOP_Annotation\src\main\java
 D:\aws220726\SpringFramework\workspace_spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3556982976.index
 \_015_SpringFramework_AOP_Timing\src\main\java
 D:\aws220726\SpringFramework\workspace_spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4113935511.index
@@ -25,6 +27,8 @@ D:\aws220726\SpringFramework\workspace_spring\.metadata\.plugins\org.eclipse.jst
 \_004_SpringFramework_SpringContainer\src\main\java
 D:\aws220726\SpringFramework\workspace_spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1471696001.index
 \_008_SpringFramework_DI_Constructor_Interface\src\main\java
+D:\aws220726\SpringFramework\workspace_spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2233924847.index
+\_018_SpringFramework_JDBCTemplate\src\main\java
 D:\aws220726\SpringFramework\workspace_spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1970006604.index
 \_014_SpringFramework_AOP\src\main\java
 D:\aws220726\SpringFramework\workspace_spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4093592921.index

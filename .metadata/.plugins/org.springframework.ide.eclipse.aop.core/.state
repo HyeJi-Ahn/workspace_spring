@@ -7,8 +7,10 @@
 <aop-project name="_008_SpringFramework_DI_Constructor_Interface"/>
 <aop-project name="_011_SpringFramework_DI_Annotation_Xml"/>
 <aop-project name="_004_SpringFramework_SpringContainer"/>
+<aop-project name="_017_SpringFramework_AOP_Annotation"/>
 <aop-project name="_005_SpringFramework_BeanProperties"/>
 <aop-project name="_014_SpringFramework_AOP"/>
+<aop-project name="_018_SpringFramework_JDBCTemplate"/>
 <aop-project name="_012_SpringFramework_BusinessComponent"/>
 <aop-project name="_009_SpringFramework_DI_Setter"/>
 <aop-project name="_002_SpringFramework_Coupling"/>
