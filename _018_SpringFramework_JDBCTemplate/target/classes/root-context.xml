@@ -88,8 +88,15 @@
 	<bean id="dataSource" class="org.apache.commons.dbcp2.BasicDataSource" destroy-method="close">
 		<property name="driverClassName" value="${jdbc.driver}"></property>
 		<property name="url" value="${jdbc.url}"></property>
-		<property name="userName" value="${jdbc.username}"></property>
+		<!-- name 속성에는 변수명이 아니구 세터함수의 이름이 온다. -->
+		<property name="username" value="${jdbc.username}"></property>
 		<property name="password" value="${jdbc.password}"></property>
 	</bean>
+	
+	<!-- JDBC Template bean 객체로 등록 -->
+	<bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+		<property name="dataSource" ref="dataSource"></property>	
+	</bean>
+	
 	
 </beans>

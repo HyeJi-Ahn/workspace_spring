@@ -2,7 +2,9 @@
 <aop-reference-model>
 <aop-project name="_006_SpringFramework_DI"/>
 <aop-project name="_010_SpringFramework_DI_Annotation"/>
+<aop-project name="_020_SpringFramework_Mybatis"/>
 <aop-project name="_003_SpringFramework_Coupling_Interface"/>
+<aop-project name="_019_SpringFramework_Transaction"/>
 <aop-project name="_007_SpringFramework_DI_Constructor"/>
 <aop-project name="_008_SpringFramework_DI_Constructor_Interface"/>
 <aop-project name="_011_SpringFramework_DI_Annotation_Xml"/>

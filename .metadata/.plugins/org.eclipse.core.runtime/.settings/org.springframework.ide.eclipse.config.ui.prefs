@@ -17,4 +17,6 @@
 //com.springsource.config.ui.prefs.activePageIndex\:/_016_SpringFramework_AOP_JoinPoint/src/main/resources/root-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/_017_SpringFramework_AOP_Annotation/src/main/resources/root-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/_018_SpringFramework_JDBCTemplate/src/main/resources/root-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/_019_SpringFramework_Transaction/src/main/resources/root-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/_020_SpringFramework_Mybatis/src/main/resources/root-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 eclipse.preferences.version=1
