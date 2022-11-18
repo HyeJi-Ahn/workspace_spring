@@ -26,4 +26,6 @@
     <fullyQualifiedTypeName name="org.springframework.jdbc.core.RowMapper"/>
     <fullyQualifiedTypeName name="javax.sql.DataSource"/>
     <fullyQualifiedTypeName name="org.springframework.jdbc.core.JdbcTemplate"/>
+    <fullyQualifiedTypeName name="org.mybatis.spring.SqlSessionTemplate"/>
+    <fullyQualifiedTypeName name="com.ezen.springboard.service.impl.HomeDAO"/>
 </qualifiedTypeNameHistroy>

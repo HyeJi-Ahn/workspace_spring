@@ -19,4 +19,8 @@
 //com.springsource.config.ui.prefs.activePageIndex\:/_018_SpringFramework_JDBCTemplate/src/main/resources/root-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/_019_SpringFramework_Transaction/src/main/resources/root-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/_020_SpringFramework_Mybatis/src/main/resources/root-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/_022_SpringBoard_DataTransfer/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/_022_SpringBoard_DataTransfer/src/main/webapp/WEB-INF/spring/root-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/_023_SpringBoard_Default/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/_023_SpringBoard_Default/src/main/webapp/WEB-INF/spring/root-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 eclipse.preferences.version=1

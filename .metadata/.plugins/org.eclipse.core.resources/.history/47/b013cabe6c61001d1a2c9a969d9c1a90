@@ -1,7 +1,0 @@
-package com.ezen.spring.polymorphism;
-
-public class SonySpeaker {
-	public SonySpeacker() {
-		
-	}
-}
