@@ -9,6 +9,11 @@ import com.ezen.springboard.service.user.UserService;
 public class UserServiceImpl implements UserService {
 	@Autowired
 	private UserDAO userDAO;
+
+	@Override
+	public int idCheck(String userId) {		
+		return userDAO.idCheck(userId);
+	}
 	
 	
 }
